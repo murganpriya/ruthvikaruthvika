@@ -1,0 +1,13 @@
+a{
+    width: 100px;
+    margin: 8px;
+    display: inline-block;
+    border: 1px solid#ccc;
+    box-sizing: border-box;
+    border:color(from color srgb r g b);
+    box-shadow: inset;
+    background-color:pink;
+}
+nav{
+margin-left:auto;
+}

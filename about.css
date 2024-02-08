@@ -1,0 +1,10 @@
+body{
+    background-color:palevioletred;
+}
+p{
+    font-style: italic;
+    font-size: 40px;
+    background-color: cornflowerblue;
+    border-style:hidden;
+    width: 500px;
+}

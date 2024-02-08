@@ -1,0 +1,26 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    border: 10px;
+    margin: auto;
+}
+body{
+    background-color: darkkhaki;
+}
+.rahman{
+    border-style: dashed;
+    background-color: cyan;
+    color:blueviolet;
+    font-style: italic;
+    }
+.saindhavi{
+    border-style:dashed;
+    background-color: pink;
+    color: brown;
+    font-style: italic;
+}   
+.sriram{
+    border-style: dashed;
+    background-color:darkcyan;
+    font-style: italic;
+    color: black;
+}  
